@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/108675663.svg)](https://zenodo.org/badge/latestdoi/108675663)
+
 # WaMDaM publications  
 Below are lists of all the presentations and publications on WaMDaM products since inception.  
 
